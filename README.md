@@ -5,3 +5,8 @@ Gustavo Fontenele, from Fortaleza, Ceará, Brazil. Currently studying Informatic
 🎥 - Favorite TV shows: Breaking Bad, Better Call Saul |
 🎵 - Favorite music genres: Classic Rock, Eletroctronic Music, Underground |
 🌲 - Nature enjoyer |
+<div style="display: inline_block"><br>
+  <img align="center" alt="gus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/> </a>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
